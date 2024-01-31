@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Dapper.Infrastructure
+build_property.ProjectDir = C:\Project\Dapper.WebApi\Dapper.Infrastructure\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

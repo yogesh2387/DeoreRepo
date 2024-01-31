@@ -1,0 +1,14 @@
+C:\Project\Dapper.WebApi\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Application.deps.json
+C:\Project\Dapper.WebApi\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Application.dll
+C:\Project\Dapper.WebApi\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Application.pdb
+C:\Project\Dapper.WebApi\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Core.dll
+C:\Project\Dapper.WebApi\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Core.pdb
+C:\Project\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.csproj.AssemblyReference.cache
+C:\Project\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.AssemblyInfoInputs.cache
+C:\Project\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.AssemblyInfo.cs
+C:\Project\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.csproj.CoreCompileInputs.cache
+C:\Project\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.sourcelink.json
+C:\Project\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.csproj.CopyComplete
+C:\Project\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.dll
+C:\Project\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.pdb

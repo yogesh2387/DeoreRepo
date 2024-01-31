@@ -1,0 +1,11 @@
+C:\Project\Dapper.WebApi\Dapper.Core\bin\Debug\netcoreapp3.1\Dapper.Core.deps.json
+C:\Project\Dapper.WebApi\Dapper.Core\bin\Debug\netcoreapp3.1\Dapper.Core.dll
+C:\Project\Dapper.WebApi\Dapper.Core\bin\Debug\netcoreapp3.1\Dapper.Core.pdb
+C:\Project\Dapper.WebApi\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.csproj.AssemblyReference.cache
+C:\Project\Dapper.WebApi\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Dapper.WebApi\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.AssemblyInfoInputs.cache
+C:\Project\Dapper.WebApi\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.AssemblyInfo.cs
+C:\Project\Dapper.WebApi\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.csproj.CoreCompileInputs.cache
+C:\Project\Dapper.WebApi\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.sourcelink.json
+C:\Project\Dapper.WebApi\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.dll
+C:\Project\Dapper.WebApi\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.pdb
