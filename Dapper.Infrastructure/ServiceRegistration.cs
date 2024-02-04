@@ -11,8 +11,12 @@ namespace Dapper.Infrastructure
     {
         public static void AddInfrastructure(this IServiceCollection services)
         {
-            services.AddTransient<IProductRepository, ProductRepository>();
+            services.AddTransient<IMeetingRepository, MeetingRepository>();
             services.AddTransient<IUserRepository, UserRepository>();
+            services.AddTransient<IReportsRepository, ReportsRepository>();
+            services.AddTransient<IServiceRepository, ServiceRepository>();
+            services.AddTransient<IUserBusienss, UserBusiness>();
+
             services.AddTransient<IUnitOfWork, UnitOfWork>();
         }
     }

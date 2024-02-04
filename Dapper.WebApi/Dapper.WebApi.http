@@ -1,0 +1,39 @@
+﻿@Dapper.WebApi_HostAddress = https://localhost:44305
+
+POST {{Dapper.WebApi_HostAddress}}/api/user
+Content-Type: application/json
+
+{
+  //User
+}
+
+###
+
+GET {{Dapper.WebApi_HostAddress}}/api/user
+
+###
+
+GET {{Dapper.WebApi_HostAddress}}/api/user/1
+
+
+###
+
+GET {{Dapper.WebApi_HostAddress}}/api/user/0
+
+###
+
+DELETE {{Dapper.WebApi_HostAddress}}/api/user?1
+
+###
+
+DELETE {{Dapper.WebApi_HostAddress}}/api/user?id=1003
+
+###
+
+DELETE {{Dapper.WebApi_HostAddress}}/api/user?id=0
+
+###
+
+GET {{Dapper.WebApi_HostAddress}}/api/user/0
+
+###

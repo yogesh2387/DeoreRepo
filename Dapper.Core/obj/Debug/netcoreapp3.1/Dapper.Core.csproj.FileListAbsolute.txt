@@ -9,3 +9,13 @@ C:\Project\Dapper.WebApi\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.csproj.
 C:\Project\Dapper.WebApi\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.sourcelink.json
 C:\Project\Dapper.WebApi\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.dll
 C:\Project\Dapper.WebApi\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.pdb
+C:\Users\hp\Downloads\DeoreRepo-main\DeoreRepo-main\Dapper.Core\bin\Debug\netcoreapp3.1\Dapper.Core.deps.json
+C:\Users\hp\Downloads\DeoreRepo-main\DeoreRepo-main\Dapper.Core\bin\Debug\netcoreapp3.1\Dapper.Core.dll
+C:\Users\hp\Downloads\DeoreRepo-main\DeoreRepo-main\Dapper.Core\bin\Debug\netcoreapp3.1\Dapper.Core.pdb
+C:\Users\hp\Downloads\DeoreRepo-main\DeoreRepo-main\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\DeoreRepo-main\DeoreRepo-main\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\DeoreRepo-main\DeoreRepo-main\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\DeoreRepo-main\DeoreRepo-main\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.AssemblyInfo.cs
+C:\Users\hp\Downloads\DeoreRepo-main\DeoreRepo-main\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\DeoreRepo-main\DeoreRepo-main\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.dll
+C:\Users\hp\Downloads\DeoreRepo-main\DeoreRepo-main\Dapper.Core\obj\Debug\netcoreapp3.1\Dapper.Core.pdb

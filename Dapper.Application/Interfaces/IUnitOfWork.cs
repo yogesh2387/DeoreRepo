@@ -6,8 +6,12 @@ namespace Dapper.Application.Interfaces
 {
     public interface IUnitOfWork
     {
-        IProductRepository Products { get; }
+        IMeetingRepository Meeting { get; }
+
+        IServiceRepository Services { get; }
 
         IUserRepository Users { get; }
+
+        IReportsRepository Report { get; }
     }
 }

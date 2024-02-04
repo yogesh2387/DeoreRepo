@@ -16,9 +16,11 @@ namespace Dapper.WebApi.Controllers
     public class UserController: ControllerBase
     {
         private readonly IUnitOfWork unitOfWork;
-        public UserController(IUnitOfWork unitOfWork)
+        private readonly IUserBusienss userBusienss;
+        public UserController(IUnitOfWork unitOfWork, IUserBusienss userBusienss)
         {
             this.unitOfWork = unitOfWork;
+            this.userBusienss = userBusienss;
         }
         [HttpGet]
         public async Task<IActionResult> GetAll()
@@ -36,6 +38,8 @@ namespace Dapper.WebApi.Controllers
         [HttpPost]
         public async Task<IActionResult> Add(User user)
         {
+
+            var x = userBusienss.ValidateMoblileNo(user.MobileNo);
             var data = await unitOfWork.Users.AddAsync(user);
             return Ok(data);
         }

@@ -20,7 +20,7 @@ namespace Dapper.Infrastructure.Repository
         public async Task<int> AddAsync(User entity)
         {
             entity.DateOfRegistration = DateTime.Now;
-            var sql = "Insert into Products (Name,Description,Barcode,Rate,AddedOn) VALUES (@Name,@Description,@Barcode,@Rate,@AddedOn)";
+            var sql = "Insert into dbo.[User] (FirstName,LastName,EmailAddress,Address,MobileNo,DateOfRegistration) VALUES (@FirstName,@LastName,@EmailAddress,@Address,@MobileNo,@DateOfRegistration)";
             using (var connection = new SqlConnection(configuration.GetConnectionString("DefaultConnection")))
             {
                 connection.Open();
@@ -31,11 +31,12 @@ namespace Dapper.Infrastructure.Repository
 
         public async Task<int> DeleteAsync(int id)
         {
-            var sql = "DELETE FROM User WHERE Id = @Id";
+            var sql = "DELETE FROM dbo.[User] WHERE Id = @Id";
             using (var connection = new SqlConnection(configuration.GetConnectionString("DefaultConnection")))
             {
                 connection.Open();
                 var result = await connection.ExecuteAsync(sql, new { Id = id });
+                
                 return result;
             }
         }
@@ -65,7 +66,7 @@ namespace Dapper.Infrastructure.Repository
         public async Task<int> UpdateAsync(User entity)
         {
             entity.DateOfRegistration = DateTime.Now;
-            var sql = "UPDATE User SET Name = @Name, Description = @Description, Barcode = @Barcode, Rate = @Rate, ModifiedOn = @ModifiedOn  WHERE Id = @Id";
+            var sql = "UPDATE dbo.[User] SET FirstName = @FirstName, LastName = @LastName, EmailAddress = @EmailAddress, Address = @Address, MobileNo = @MobileNo,DateOfRegistration=@DateOfRegistration  WHERE Id = @Id";
             using (var connection = new SqlConnection(configuration.GetConnectionString("DefaultConnection")))
             {
                 connection.Open();
